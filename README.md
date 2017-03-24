@@ -1,10 +1,11 @@
-Does this upload?
+Atlas Arkansas
 ========
 
-A simple, responsive template for building web mapping applications with [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
+A responsive map of Arkansas with layers of easily searchable features collected in one ever-expanding catalog.
+Based on Bryan McBride's cool mashup of [Bootstrap](http://getbootstrap.com/), [Leaflet](http://leafletjs.com/), and [typeahead.js](http://twitter.github.io/typeahead.js/).
 
 ### Demo:
-http://bmcbride.github.io/bootleaf/
+http://www.atlasarkansas.com
 
 ### Features:
 * Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
